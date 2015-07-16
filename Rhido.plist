@@ -17,9 +17,9 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>GigaZone.Rhido</string>
+                                <string>GigaZone.BLEBackgroundMode</string>
                                 <key>bundle-version</key>
-                                <string>2015.07.01</string>
+                                <string>2015.07.16</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
